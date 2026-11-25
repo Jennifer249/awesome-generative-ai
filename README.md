@@ -322,6 +322,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GenShare](https://www.genshare.io/) - Generate art in seconds for free. Own and share what you create. A multimedia generative studio, democratizing design and creativity.
 - [Playground](https://playground.com/) - Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more.
 - [modyfi](https://www.modyfi.com/) - A browser-based design platform with AI-powered image generation, animation, and real-time collaboration.
+- [Vogoo AI](https://vogoo.ai/) - A free-to-try AI picture generator that turns text or photos into pixel art sprites, character art and short image-to-video clips, with exact pixel-size controls and prompt templates.
 - [PhotoRoom](https://www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - [Photo AI](https://photoai.com/ai-avatars) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - Create professional visuals without a photo studio, powered by [stability.ai](https://stability.ai/).
